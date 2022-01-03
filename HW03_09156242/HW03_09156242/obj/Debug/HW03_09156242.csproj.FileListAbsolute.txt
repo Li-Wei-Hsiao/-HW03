@@ -1,0 +1,10 @@
+C:\Users\leo12\source\repos\HW03_09156242\HW03_09156242\bin\Debug\HW03_09156242.exe.config
+C:\Users\leo12\source\repos\HW03_09156242\HW03_09156242\bin\Debug\HW03_09156242.exe
+C:\Users\leo12\source\repos\HW03_09156242\HW03_09156242\bin\Debug\HW03_09156242.pdb
+C:\Users\leo12\source\repos\HW03_09156242\HW03_09156242\obj\Debug\HW03_09156242.csproj.AssemblyReference.cache
+C:\Users\leo12\source\repos\HW03_09156242\HW03_09156242\obj\Debug\HW03_09156242.Form1.resources
+C:\Users\leo12\source\repos\HW03_09156242\HW03_09156242\obj\Debug\HW03_09156242.Properties.Resources.resources
+C:\Users\leo12\source\repos\HW03_09156242\HW03_09156242\obj\Debug\HW03_09156242.csproj.GenerateResource.cache
+C:\Users\leo12\source\repos\HW03_09156242\HW03_09156242\obj\Debug\HW03_09156242.csproj.CoreCompileInputs.cache
+C:\Users\leo12\source\repos\HW03_09156242\HW03_09156242\obj\Debug\HW03_09156242.exe
+C:\Users\leo12\source\repos\HW03_09156242\HW03_09156242\obj\Debug\HW03_09156242.pdb
